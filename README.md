@@ -4,4 +4,10 @@ This is code for a web scraper which uses beautifulsoup to get pictures of dogs 
 
 ## Dependencies
 
-This project requires beautifulsoup
+This project requires:
+- beautifulsoup
+- pillow
+- os
+- requests
+- shutil
+- time
